@@ -12,4 +12,4 @@ There are four primary colours used in Tomahawk Labs branding. White, blue, grey
 ![](https://dummyimage.com/150x150/168bb5/ffffff.jpg&text=168ab5)
 
 ### Orange
-![](https://dummyimage.com/150x150/f2553d/ffffff.jpg&text=orange)
+![](https://dummyimage.com/150x150/f2553d/ffffff.jpg&text=f2553d)
